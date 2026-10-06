@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Support on Your Terms · independent Circles prototype</title>
+  <meta name="description" content="An independent, unofficial prototype of a consent-first support circle. Synthetic data only.">
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="brand/bolt-favicon.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <div class="disclosure" role="note">
+    <strong>Independent product prototype - synthetic demo.</strong>
+    <span>Not Bolt Pharmacy or AIOS software. No endorsement. No real people, invites or health data.</span>
+  </div>
+  <header class="topbar">
+    <img class="logo" src="brand/bolt-logo-horizontal.svg" alt="Bolt (brand owner's logo, used for an unofficial concept)" width="96" height="32">
+    <span class="product">Support on Your Terms</span>
+    <nav class="tabs" aria-label="Views">
+      <a href="#/app" data-tab="app">Phone app</a>
+      <a href="#/analyst" data-tab="analyst">Analyst view</a>
+    </nav>
+  </header>
+  <main id="main" tabindex="-1">
+    <section id="view-app" class="view" aria-label="Phone app">
+      <div class="phone" id="phone"></div>
+    </section>
+    <section id="view-analyst" class="view" aria-label="Analyst view" hidden>
+      <div id="analyst"></div>
+    </section>
+  </main>
+  <footer class="footer">
+    <p>An independent concept by Ayo Ahmed. The Bolt name and logo belong to their owner and are shown only to place the idea in context. All names, events and results are synthetic. Clinical decisions belong to clinicians.</p>
+  </footer>
+  <div class="sr-only" aria-live="polite" id="live"></div>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

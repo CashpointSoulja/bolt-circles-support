@@ -1,0 +1,11 @@
+[
+  { "id": "01-intro", "text": "This is an independent prototype using synthetic data. It explores one idea for Circles: getting support without sharing anything private about your health." },
+  { "id": "02-private", "text": "Sam starts privately. That's a complete path, not a lesser one. Pick something small, check in once a week, and nobody else sees it." },
+  { "id": "03-circle", "text": "If Sam wants company, they can invite one person. They choose the intention, the kind of support, and a neutral title. Then they see exactly what Alex will see, and what is never shared." },
+  { "id": "04-confirm", "text": "Nothing goes out until Sam ticks the box. And the link is a demo link that only works inside this prototype." },
+  { "id": "05-supporter", "text": "Alex sees only those reviewed fields. Saying no would be fine. Here, Alex accepts and picks a preset note. Writing your own advice isn't possible, and health questions go to the care team." },
+  { "id": "06-revoke", "text": "Back with Sam, the note can be marked helpful. If it stops feeling right, one tap removes access, and Alex's old link shows nothing at all." },
+  { "id": "07-analyst", "text": "The analyst view asks whether circles actually helped people come back in week two, counting households, not clicks. In this misleading fixture, the pooled number looks like a win." },
+  { "id": "08-hold", "text": "But the arms enrolled different people, and a few heavy users dominate. Filter by cohort and every group favours control. So the decision is hold for more evidence, not launch." },
+  { "id": "09-close", "text": "Privacy first, and an honest answer about what the data can and can't say." }
+]

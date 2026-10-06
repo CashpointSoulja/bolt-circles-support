@@ -1,0 +1,50 @@
+{
+  "total": 89.55900000000001,
+  "marks": [
+    {
+      "id": "01-intro",
+      "at": 0,
+      "seconds": 9.216
+    },
+    {
+      "id": "02-private",
+      "at": 9.677,
+      "seconds": 9.432
+    },
+    {
+      "id": "03-circle",
+      "at": 19.569,
+      "seconds": 11.76
+    },
+    {
+      "id": "04-confirm",
+      "at": 31.796,
+      "seconds": 6.96
+    },
+    {
+      "id": "05-supporter",
+      "at": 39.205999999999996,
+      "seconds": 12.576
+    },
+    {
+      "id": "06-revoke",
+      "at": 52.241,
+      "seconds": 8.856
+    },
+    {
+      "id": "07-analyst",
+      "at": 61.56,
+      "seconds": 10.464
+    },
+    {
+      "id": "08-hold",
+      "at": 72.48700000000001,
+      "seconds": 10.944
+    },
+    {
+      "id": "09-close",
+      "at": 83.884,
+      "seconds": 4.416
+    }
+  ]
+}

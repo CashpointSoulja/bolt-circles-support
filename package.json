@@ -1,0 +1,22 @@
+{
+  "name": "bolt-circles-support",
+  "version": "0.1.0",
+  "description": "Support on Your Terms: an independent, unofficial consent-first circles prototype with synthetic data.",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "serve": "node scripts/serve.mjs",
+    "test": "vitest run",
+    "test:e2e": "playwright test"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "serve-handler": "^6.1.7",
+    "vitest": "^3.2.7"
+  },
+  "private": true,
+  "type": "module"
+}

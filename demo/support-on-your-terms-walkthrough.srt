@@ -1,0 +1,35 @@
+1
+00:00:00,000 --> 00:00:09,216
+This is an independent prototype using synthetic data. It explores one idea for Circles: getting support without sharing anything private about your health.
+
+2
+00:00:09,677 --> 00:00:19,109
+Sam starts privately. That's a complete path, not a lesser one. Pick something small, check in once a week, and nobody else sees it.
+
+3
+00:00:19,569 --> 00:00:31,329
+If Sam wants company, they can invite one person. They choose the intention, the kind of support, and a neutral title. Then they see exactly what Alex will see, and what is never shared.
+
+4
+00:00:31,796 --> 00:00:38,756
+Nothing goes out until Sam ticks the box. And the link is a demo link that only works inside this prototype.
+
+5
+00:00:39,205 --> 00:00:51,782
+Alex sees only those reviewed fields. Saying no would be fine. Here, Alex accepts and picks a preset note. Writing your own advice isn't possible, and health questions go to the care team.
+
+6
+00:00:52,241 --> 00:01:01,097
+Back with Sam, the note can be marked helpful. If it stops feeling right, one tap removes access, and Alex's old link shows nothing at all.
+
+7
+00:01:01,560 --> 00:01:12,024
+The analyst view asks whether circles actually helped people come back in week two, counting households, not clicks. In this misleading fixture, the pooled number looks like a win.
+
+8
+00:01:12,487 --> 00:01:23,431
+But the arms enrolled different people, and a few heavy users dominate. Filter by cohort and every group favours control. So the decision is hold for more evidence, not launch.
+
+9
+00:01:23,884 --> 00:01:28,300
+Privacy first, and an honest answer about what the data can and can't say.
